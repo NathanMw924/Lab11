@@ -26,7 +26,7 @@ const int STEP_TIME = 200;   // how long each LED stays on (ms)
 
 // Part IV – samples array
 // An array of 10 readings. It is empty for now: takeSamples() fills it.
-const int NUM_SAMPLES = 50;
+const int NUM_SAMPLES = 10;
 int samples[NUM_SAMPLES];
 
 // ----- Helper functions ----------------------------------------------
